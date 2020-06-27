@@ -2,7 +2,6 @@
 
 set -e
 set -x
-set -o pipefail
 
 echo '*** waiting for zerotier identity generation...'
 
